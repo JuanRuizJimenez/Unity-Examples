@@ -1,0 +1,3575 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8873
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.334 seconds
+Platform assembly: D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UNI_1_2\PROYECTO\TheAlchemist\TheAlchemist_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.674272 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.538174 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 396.
+Total: 0.257185 ms (FindLiveObjects: 0.039901 ms CreateObjectMapping: 0.030814 ms MarkObjects: 0.175407 ms  DeleteObjects: 0.010271 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.531753 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 340.
+Total: 0.459456 ms (FindLiveObjects: 0.055308 ms CreateObjectMapping: 0.046617 ms MarkObjects: 0.236642 ms  DeleteObjects: 0.120493 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.349629 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 0.237827 ms (FindLiveObjects: 0.026469 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.155259 ms  DeleteObjects: 0.026864 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.312493 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 340.
+Total: 0.201086 ms (FindLiveObjects: 0.033185 ms CreateObjectMapping: 0.013827 ms MarkObjects: 0.146172 ms  DeleteObjects: 0.007901 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.475654 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 367.
+Total: 0.203851 ms (FindLiveObjects: 0.016987 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.148543 ms  DeleteObjects: 0.024888 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.432987 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3547.
+Total: 5.301730 ms (FindLiveObjects: 0.155654 ms CreateObjectMapping: 0.051753 ms MarkObjects: 0.555852 ms  DeleteObjects: 4.537680 ms)
+
+Faltan los puntos en los que se hace daño (Opcionales), para objeto:Shadows
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+dropeooo
+dropeooo
+dropeooo
+dropeooo
+dropeooo
+dropeooo
+dropeooo
+dropeooo
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 363.166962 ms
+
+Unloading 126 unused Assets to reduce memory usage. Loaded Objects now: 5439.
+Total: 1.492148 ms (FindLiveObjects: 0.259555 ms CreateObjectMapping: 0.086913 ms MarkObjects: 0.835160 ms  DeleteObjects: 0.309728 ms)
+
+Faltan los puntos en los que se hace daño (Opcionales), para objeto:Tentaculo (19)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Faltan los puntos en los que se hace daño (Opcionales), para objeto:Tentaculo (21)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Faltan los puntos en los que se hace daño (Opcionales), para objeto:Tentaculo (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+dropeooo
+dropeooo
+dropeooo
+dropeooo
+dropeooo
+Ataca
+Ataca
+Ataca
+Adios
+0.007961682
+Adios
+0.01624909
+Adios
+Adios
+0.02483221
+Adios
+0.03313661
+Adios
+0.04153997
+Adios
+Adios
+0.05005138
+Adios
+Adios
+0.0584662
+Adios
+0.06670837
+Adios
+Adios
+0.07516032
+Adios
+0.08333179
+Adios
+0.09167135
+Adios
+Adios
+0.1000765
+Adios
+Adios
+0.1085664
+Adios
+Adios
+0.1169393
+Adios
+Adios
+0.1253662
+Adios
+0.1336635
+Adios
+Adios
+0.1419965
+Adios
+0.1502365
+Adios
+Adios
+0.158585
+Adios
+Adios
+0.1671422
+Adios
+0.1753528
+Adios
+Adios
+0.1839128
+Adios
+0.1921816
+Adios
+0.2004615
+Adios
+Adios
+0.2090022
+Adios
+0.2172989
+Adios
+0.2256667
+Adios
+Adios
+0.2341015
+Adios
+0.2424859
+Adios
+Adios
+0.2509135
+Adios
+Adios
+0.2593066
+Adios
+Adios
+0.2678239
+Adios
+Adios
+0.27625
+Adios
+Adios
+0.2846324
+Adios
+Adios
+0.2931043
+Adios
+0.3014403
+Adios
+Adios
+0.309972
+Adios
+0.3181249
+Adios
+Adios
+0.3264981
+Adios
+0.3348363
+Adios
+Adios
+0.3431918
+Adios
+0.3514522
+Adios
+Adios
+0.3599403
+Adios
+0.3682705
+Adios
+Adios
+0.3766393
+Adios
+0.3847093
+Adios
+0.3931237
+Adios
+Adios
+0.4016116
+Adios
+Adios
+0.409965
+Adios
+0.4183395
+Adios
+Adios
+0.4267267
+Adios
+0.4349799
+Adios
+Adios
+0.4433888
+Adios
+0.4516267
+Adios
+Adios
+0.4600357
+Adios
+0.4683277
+Adios
+Adios
+0.4767765
+Adios
+Adios
+0.4850424
+Adios
+Adios
+0.4935014
+Adios
+0.5018795
+Adios
+Adios
+0.5103072
+Adios
+Adios
+0.5188285
+Adios
+Adios
+0.5270475
+Adios
+Adios
+0.5355639
+Adios
+Adios
+0.5439562
+Adios
+Adios
+0.5523028
+Adios
+Adios
+0.5606983
+Adios
+Adios
+0.569006
+Adios
+Adios
+0.5773904
+Adios
+Adios
+0.5858361
+Adios
+0.5941465
+Adios
+Adios
+0.6025404
+Adios
+Adios
+0.6110367
+Adios
+Adios
+0.6192838
+Adios
+Adios
+0.6277195
+Adios
+Adios
+0.6361205
+Adios
+Adios
+0.6445892
+Adios
+Adios
+0.6530299
+Adios
+0.6613108
+Adios
+Adios
+0.6697224
+Adios
+Adios
+0.6781763
+Adios
+0.6864569
+Adios
+0.6948592
+Adios
+Adios
+0.7032738
+Adios
+Adios
+0.7118723
+Adios
+0.7202279
+Adios
+0.7285854
+Adios
+Adios
+0.736976
+Adios
+Adios
+0.7453628
+Adios
+0.7536038
+Adios
+Adios
+0.7620263
+Adios
+Adios
+0.770318
+Adios
+0.7785517
+Adios
+Adios
+0.7869695
+Adios
+0.7951893
+Adios
+Adios
+0.8035316
+Adios
+Adios
+0.8120006
+Adios
+Adios
+0.8204527
+Adios
+Adios
+0.8287573
+Adios
+0.8370025
+Adios
+0.845328
+Adios
+Adios
+0.8537906
+Adios
+0.8622171
+Adios
+Adios
+0.870674
+Adios
+Adios
+0.8789803
+Adios
+Adios
+0.8874305
+Adios
+Adios
+0.8958836
+Adios
+0.9041971
+Adios
+Adios
+0.9128553
+Adios
+Adios
+0.9211717
+Adios
+Adios
+0.9295889
+Adios
+0.9379089
+Adios
+0.9462785
+Adios
+Adios
+0.954651
+Adios
+0.962877
+Adios
+Adios
+0.9713525
+Adios
+0.9795474
+Adios
+Adios
+0.9879709
+Adios
+0.9962581
+Adios
+1.004583
+Hola
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.621828 ms
+
+Unloading 561 unused Assets to reduce memory usage. Loaded Objects now: 330.
+Total: 16.658180 ms (FindLiveObjects: 0.036345 ms CreateObjectMapping: 0.030419 ms MarkObjects: 0.151703 ms  DeleteObjects: 16.438921 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ActivaText.desactivaText () [0x00000] in <filename unknown>:0 
+  at ActivaText.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.348444 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 340.
+Total: 1.168197 ms (FindLiveObjects: 0.052543 ms CreateObjectMapping: 0.012641 ms MarkObjects: 0.158419 ms  DeleteObjects: 0.944197 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2b7c -> priority: 1 
+  Thread -> id: 3538 -> priority: 1 
